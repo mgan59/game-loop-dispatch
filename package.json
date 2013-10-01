@@ -1,0 +1,25 @@
+{
+  "name": "game-loop-dispatcher",
+  "version": "0.1.0",
+  "description": "A low level game loop that emits events",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/mgan59/game-loop-dispatch.git"
+  },
+  "keywords": [
+    "gamedev",
+    "game",
+    "loop",
+    "interval",
+    "events"
+  ],
+  "author": "Morgan Craft (http://morgancraft.com/)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/mgan59/game-loop-dispatch/issues"
+  }
+}
